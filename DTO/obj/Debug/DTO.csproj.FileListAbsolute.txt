@@ -1,0 +1,14 @@
+D:\codeCS\ShopSp\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\codeCS\ShopSp\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\codeCS\ShopSp\DTO\bin\Debug\DTO.pdb
+D:\codeCS\ShopSp\DTO\obj\Debug\DTO.pdb
+D:\codeCS\ShopSp\DTO\bin\Debug\DTO.dll.config
+D:\codeCS\ShopSp\DTO\bin\Debug\DTO.dll
+D:\codeCS\ShopSp\DTO\obj\Debug\DTO.dll
+E:\.NET\DoAn\DTO\bin\Debug\DTO.dll.config
+E:\.NET\DoAn\DTO\bin\Debug\DTO.dll
+E:\.NET\DoAn\DTO\bin\Debug\DTO.pdb
+E:\.NET\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\.NET\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\.NET\DoAn\DTO\obj\Debug\DTO.dll
+E:\.NET\DoAn\DTO\obj\Debug\DTO.pdb

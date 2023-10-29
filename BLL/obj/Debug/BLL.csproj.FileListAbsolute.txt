@@ -1,0 +1,13 @@
+E:\.NET\DoAn\BLL\bin\Debug\BLL.dll
+E:\.NET\DoAn\BLL\bin\Debug\BLL.pdb
+E:\.NET\DoAn\BLL\bin\Debug\DAL.dll
+E:\.NET\DoAn\BLL\bin\Debug\DTO.dll
+E:\.NET\DoAn\BLL\bin\Debug\DAL.pdb
+E:\.NET\DoAn\BLL\bin\Debug\DAL.dll.config
+E:\.NET\DoAn\BLL\bin\Debug\DTO.pdb
+E:\.NET\DoAn\BLL\bin\Debug\DTO.dll.config
+E:\.NET\DoAn\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\.NET\DoAn\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\.NET\DoAn\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\.NET\DoAn\BLL\obj\Debug\BLL.dll
+E:\.NET\DoAn\BLL\obj\Debug\BLL.pdb
